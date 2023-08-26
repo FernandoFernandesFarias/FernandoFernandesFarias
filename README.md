@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fernando Fernandes 👋
 
-<a href=" [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__fernandofernandess__/)" target="_blank"> 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__fernandofernandess__/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-fernandes-42054028a/)
 
 ![Fernando Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoFernandesFarias&show_icons=true&theme=dracula)
